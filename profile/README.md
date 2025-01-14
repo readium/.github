@@ -10,7 +10,6 @@ Readium toolkits are the most popular solution for supporting [EPUB](https://www
 
 * [Readium Mobile](https://readium.org/mobile)
 * [Readium Web](https://readium.org/web)
-* [Readium CSS](https://readium.org/readium-css)
 
 ## Standards and specifications
 
