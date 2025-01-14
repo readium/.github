@@ -4,6 +4,8 @@ The Readium Foundation is a US based non-profit organization.
 
 Our mission is to foster the development of an open and modern collaborative playground for digital reading technologies.
 
+Readium toolkits are the most popular solution for supporting [EPUB](https://www.w3.org/TR/epub-33/) and [audiobooks](https://readium.org/webpub-manifest/profiles/audiobook) on mobile and desktop, with [over a hundred applications](https://github.com/readium/awesome-readium) available worldwide.
+
 ## Main projects
 
 * [Readium Mobile](https://readium.org/mobile)
