@@ -1,4 +1,4 @@
-<a href="https://readium.org"><img src="https://readium.org/assets/logos/readium-logo.png" alt="Readium logo" title="Readium logo" role="presentation"></a>
+# Readium Foundation
 
 The Readium Foundation is a US based non-profit organization.
 
